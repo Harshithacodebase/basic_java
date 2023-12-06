@@ -1,4 +1,4 @@
-# basic_java
+# multiply three numbers
 public class multiplythreenum{
     static int a=2;
     static int b=8;
