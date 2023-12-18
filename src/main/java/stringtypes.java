@@ -9,6 +9,12 @@ public class stringtypes {
             System.out.println(str2.hashCode());
             System.out.println(str1+" "+str2);
             System.out.println(str1.toUpperCase());
+            
+             if(str1.equals(str3)) {
+                System.out.println(true);
+            }else{
+                System.out.println(false);
+            }
 
             if(str1.equals(str2)) {
                 System.out.println(true);
